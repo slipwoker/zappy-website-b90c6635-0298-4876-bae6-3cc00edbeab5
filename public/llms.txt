@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אלפי בניינים ברחבי ישראל כבר נהנים משקט אמיתי. ניהול ואחזקת בניינים ברמה הגבוהה ביותר, עם טכנולוגיה מתקדמת ומחויבות אישית. גלו את ההבדל.
+
+### אודות
+https://example.com/about
+מאז 2015 אנחנו מוכיחים שאפשר לשלב את החום האישי של חברה קטנה עם העוצמה של תאגיד. היכרו עם הצוות שמנהל אלפי בניינים ברחבי ישראל.
+
+### שירותים
+https://example.com/services
+מגביית דמי ועד בית ועד ייעוץ משפטי, אחזקה שוטפת וגבייה מקצועית — ניהול ואחזקת בניינים בגישה מלאה ושקופה. בדקו אילו שירותים מחכים לכם.
+
+### צור קשר
+https://example.com/contact
+רוצים לשדרג את ניהול הבניין שלכם? צוות המומחים שלנו זמין לכם עכשיו. פנו אלינו ותקבלו הצעה מותאמת אישית לניהול ואחזקת הבניין שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
