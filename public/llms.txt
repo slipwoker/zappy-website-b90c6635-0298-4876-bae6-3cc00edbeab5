@@ -1,47 +1,66 @@
-# Business — Generative Engine Optimization Map
+# קבוצת דירותיים בע״מ — Generative Engine Optimization Map
+
+> Dironim Ltd. is a nationwide, established building management company operating since 2015, managing thousands of residential buildings across Israel. The company uniquely combines the personal touch and accountability of a boutique firm with the full capabilities, technology, and organizational strength of a large corporation. Each regional manager operates with full ownership mentality and personal commitment, backed by advanced management systems, an in-house legal department, a professional debt collection unit, and strong organizational infrastructure. The brand positions itself as a premium, professional, and innovative leader in the Israeli building management sector, offering residents genuine peace of mind through order, transparency, and high-level service.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://dirutiyim-group.zappy5.app
 אלפי בניינים ברחבי ישראל כבר נהנים משקט אמיתי. ניהול ואחזקת בניינים ברמה הגבוהה ביותר, עם טכנולוגיה מתקדמת ומחויבות אישית. גלו את ההבדל.
 
 ### אודות
-https://example.com/about
+https://dirutiyim-group.zappy5.app/about
 מאז 2015 אנחנו מוכיחים שאפשר לשלב את החום האישי של חברה קטנה עם העוצמה של תאגיד. היכרו עם הצוות שמנהל אלפי בניינים ברחבי ישראל.
 
 ### שירותים
-https://example.com/services
+https://dirutiyim-group.zappy5.app/services
 מגביית דמי ועד בית ועד ייעוץ משפטי, אחזקה שוטפת וגבייה מקצועית — ניהול ואחזקת בניינים בגישה מלאה ושקופה. בדקו אילו שירותים מחכים לכם.
 
 ### צור קשר
-https://example.com/contact
+https://dirutiyim-group.zappy5.app/contact
 רוצים לשדרג את ניהול הבניין שלכם? צוות המומחים שלנו זמין לכם עכשיו. פנו אלינו ותקבלו הצעה מותאמת אישית לניהול ואחזקת הבניין שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://dirutiyim-group.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://dirutiyim-group.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://dirutiyim-group.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About קבוצת דירותיים בע״מ
+Dironim Ltd. is a nationwide, established building management company operating since 2015, managing thousands of residential buildings across Israel. The company uniquely combines the personal touch and accountability of a boutique firm with the full capabilities, technology, and organizational strength of a large corporation. Each regional manager operates with full ownership mentality and personal commitment, backed by advanced management systems, an in-house legal department, a professional debt collection unit, and strong organizational infrastructure. The brand positions itself as a premium, professional, and innovative leader in the Israeli building management sector, offering residents genuine peace of mind through order, transparency, and high-level service.
+
+## Services/Products
+- ניהול ואחזקת בניינים
+- מערך גבייה מתקדם
+- מחלקה משפטית פנימית
+- ניהול ספקים וקבלנים
+- ניהול תקציב ושקיפות מלאה
+- טיפול בליקויי בנייה
+- ניהול אזורי חכם
+
+## Target Audience
+נציגויות ועד בית, דיירים, בעלי דירות בבניינים משותפים
+
+## Industry
+ניהול ואחזקת בניינים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://dirutiyim-group.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dirutiyim-group.zappy5.app/robots.txt
