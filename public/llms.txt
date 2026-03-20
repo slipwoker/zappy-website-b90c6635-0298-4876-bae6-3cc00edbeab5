@@ -1,6 +1,4 @@
-# קבוצת דירותיים בע״מ — Generative Engine Optimization Map
-
-> Dironim Ltd. is a nationwide, established building management company operating since 2015, managing thousands of residential buildings across Israel. The company uniquely combines the personal touch and accountability of a boutique firm with the full capabilities, technology, and organizational strength of a large corporation. Each regional manager operates with full ownership mentality and personal commitment, backed by advanced management systems, an in-house legal department, a professional debt collection unit, and strong organizational infrastructure. The brand positions itself as a premium, professional, and innovative leader in the Israeli building management sector, offering residents genuine peace of mind through order, transparency, and high-level service.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,24 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About קבוצת דירותיים בע״מ
-Dironim Ltd. is a nationwide, established building management company operating since 2015, managing thousands of residential buildings across Israel. The company uniquely combines the personal touch and accountability of a boutique firm with the full capabilities, technology, and organizational strength of a large corporation. Each regional manager operates with full ownership mentality and personal commitment, backed by advanced management systems, an in-house legal department, a professional debt collection unit, and strong organizational infrastructure. The brand positions itself as a premium, professional, and innovative leader in the Israeli building management sector, offering residents genuine peace of mind through order, transparency, and high-level service.
-
-## Services/Products
-- ניהול ואחזקת בניינים
-- מערך גבייה מתקדם
-- מחלקה משפטית פנימית
-- ניהול ספקים וקבלנים
-- ניהול תקציב ושקיפות מלאה
-- טיפול בליקויי בנייה
-- ניהול אזורי חכם
-
-## Target Audience
-נציגויות ועד בית, דיירים, בעלי דירות בבניינים משותפים
-
-## Industry
-ניהול ואחזקת בניינים
-
+## About Business
 ---
 
 # Additional Resources
